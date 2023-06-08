@@ -2,7 +2,7 @@ Promptify is a powerful web application designed to enhance your creativity and 
 
 Features:</br> </br>
 ✨ Prompt Suggestions: Get a constant stream of creative prompts tailored to your preferences and interests. </br> 
-✨ Personalized Experience: Customize your prompt categories, difficulty levels, and genres to receive prompts that resonate with you. </br> <
+✨ Personalized Experience: Customize your prompt categories, difficulty levels, and genres to receive prompts that resonate with you. </br> 
 ✨ Timer Functionality: Set a timer to challenge yourself and enhance your productivity during creative sessions.</br>
 ✨ Prompt History: Keep track of your previous prompts and revisit them whenever you need inspiration.</br>
 ✨ Community Collaboration: Share your favorite prompts with the Promptify community and discover prompts from fellow creatives.</br>
