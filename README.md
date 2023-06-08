@@ -8,9 +8,9 @@ Features:</br> </br>
 ✨ Community Collaboration: Share your favorite prompts with the Promptify community and discover prompts from fellow creatives.</br>
 ✨ Responsive Design: Enjoy the app's seamless performance and stunning visuals across multiple devices and screen sizes.</br> </br>
 
-Tech Stack:
+Tech Stack: </br>
 🔧 Next.js: A powerful React framework for building server-side rendered (SSR) and statically generated (SSG) web applications.</br> 
 🔧 React: A JavaScript library for building user interfaces.</br> </br>
-🔧 Tailwind css: An approach to modular CSS development, ensuring encapsulation and reusability of styles.</br> 
+🔧 Tailwind css: An approach to modular CSS development, ensuring encapsulation and reusability of styles.</br> </br>
 
 Embrace your creative potential and let Promptify fuel your imagination. Join our community of inspired individuals and elevate your creative output today!
