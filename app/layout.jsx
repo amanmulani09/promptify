@@ -1,10 +1,11 @@
 import '@styles/global.css' 
-import { Children } from 'react'
+import Nav from '@components/Nav'
+import Provider from '@components/Provider'
 export const metadata = {
     title:'Promtify',
     description: 'Discover & share AI Prompts'
 }
-const RootLayout = () => {
+const RootLayout = ({children}) => {
   return (
    <html lang='en'>
 <body>
@@ -13,7 +14,8 @@ const RootLayout = () => {
 
         </div>
         <div className="app">
-            {Children}
+            <Nav />
+            {children}
         </div>
     </div>
 </body>
