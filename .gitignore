@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 /learningManual.txt
-
+.env
 # testing
 /coverage
 
@@ -26,7 +26,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
-.env*.local
 .env
 
 # vercel
