@@ -1,6 +1,6 @@
 Promptify is a powerful web application designed to enhance your creativity and provide you with thought-provoking prompts. Built with Next.js, this app offers a seamless and intuitive user experience while stimulating your imagination.
 
-Features:</br> </br>
+Core Features:</br> </br>
 ✨ Prompt Suggestions: Get a constant stream of creative prompts tailored to your preferences and interests. </br> 
 ✨ Personalized Experience: Customize your prompt categories, difficulty levels, and genres to receive prompts that resonate with you. </br> 
 ✨ Timer Functionality: Set a timer to challenge yourself and enhance your productivity during creative sessions.</br>
